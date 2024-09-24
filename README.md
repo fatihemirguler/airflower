@@ -35,7 +35,6 @@ DAG Configuration
 
 Tasks Overview
 1. extract_postgres
-
 This task connects to a PostgreSQL database and extracts all rows from the online_sales table. The extracted data is stored as a pandas DataFrame.
 2. extract_csv
 
