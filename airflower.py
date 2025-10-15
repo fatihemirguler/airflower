@@ -70,7 +70,7 @@ def load_to_mysql(aggregated_data):
     # MySQL connection details
     host = 'localhost'
     user = 'root'
-    password = 'qaresma1'
+    password = 'X'
     database = 'airflow'
     table = 'aggregated_sales'
 
